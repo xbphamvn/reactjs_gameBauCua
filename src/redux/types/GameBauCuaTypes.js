@@ -1,0 +1,3 @@
+export const CHANGE_BET_LEVEL = 'CHANGE_BET_LEVEL';
+export const PLAY_GAME_BTN = 'PLAY_GAME_BUTTON';
+export const REFRESH_GAME = 'REFRESH_GAME';
