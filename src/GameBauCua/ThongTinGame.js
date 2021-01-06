@@ -10,7 +10,7 @@ export default function ThongTinGame(props) {
 
     return (
         <div className="col-12 text-center">
-            <img className="img-fluid col-4 mt-2" src="./img/GameBauCua/Logo.png" alt="GameBauCuaLogo" />
+            <h1 class="font-weight-bold text-primary">Game Bầu Cua - xbphamvn</h1>
             <div className="p-1 mx-auto mt-2" style={{ width: '20%', backgroundColor: 'red', borderRadius: 5 }}>
                 <p className="mb-0" style={{ fontSize: 17, color: 'yellow' }}>Tiền thưởng: <span className="text-white" style={{ fontSize: 24 }}>{tongTienThuong.toLocaleString()}</span>$</p>
             </div>
